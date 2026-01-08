@@ -1,0 +1,7 @@
+{
+  "name": "English Star - Học Tiếng Anh Tiểu Học",
+  "description": "Ứng dụng học tiếng anh tương tác dành cho học sinh tiểu học với các tính năng luyện đọc, viết, nghe, phát âm và kiểm tra hàng ngày tích hợp trí tuệ nhân tạo Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
